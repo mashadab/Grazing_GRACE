@@ -7,7 +7,7 @@
 Princeton University
 
 <p align="center">
-<img src="./map_all_india_wo_islands.png" height="2000">
+<img src="./map_all_india_wo_islands.png" height="50">
 </p>
 Figures: Shapefile of India
 
